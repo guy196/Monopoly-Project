@@ -1,0 +1,21 @@
+D:\WebForms\MonopolyProject\MonopolyProject\bin\Debug\MonopolyProject.exe.config
+D:\WebForms\MonopolyProject\MonopolyProject\bin\Debug\MonopolyProject.exe
+D:\WebForms\MonopolyProject\MonopolyProject\bin\Debug\MonopolyProject.pdb
+D:\WebForms\MonopolyProject\MonopolyProject\obj\Debug\MonopolyProject.csproj.AssemblyReference.cache
+D:\WebForms\MonopolyProject\MonopolyProject\obj\Debug\MonopolyProject.csproj.SuggestedBindingRedirects.cache
+D:\WebForms\MonopolyProject\MonopolyProject\obj\Debug\MonopolyProject.Properties.Resources.resources
+D:\WebForms\MonopolyProject\MonopolyProject\obj\Debug\MonopolyProject.csproj.GenerateResource.cache
+D:\WebForms\MonopolyProject\MonopolyProject\obj\Debug\MonopolyProject.csproj.CoreCompileInputs.cache
+D:\WebForms\MonopolyProject\MonopolyProject\obj\Debug\MonopolyProject.exe
+D:\WebForms\MonopolyProject\MonopolyProject\obj\Debug\MonopolyProject.pdb
+D:\WebForms\MonopolyProject\MonopolyProject\obj\Debug\MonopolyProject.Form1.resources
+C:\Users\guysh\OneDrive\שולחן העבודה\Cyber\FinishedProjects\MonopolyProject - Guy\MonopolyProject\MonopolyProject\bin\Debug\MonopolyProject.exe.config
+C:\Users\guysh\OneDrive\שולחן העבודה\Cyber\FinishedProjects\MonopolyProject - Guy\MonopolyProject\MonopolyProject\bin\Debug\MonopolyProject.exe
+C:\Users\guysh\OneDrive\שולחן העבודה\Cyber\FinishedProjects\MonopolyProject - Guy\MonopolyProject\MonopolyProject\bin\Debug\MonopolyProject.pdb
+C:\Users\guysh\OneDrive\שולחן העבודה\Cyber\FinishedProjects\MonopolyProject - Guy\MonopolyProject\MonopolyProject\obj\Debug\MonopolyProject.csproj.AssemblyReference.cache
+C:\Users\guysh\OneDrive\שולחן העבודה\Cyber\FinishedProjects\MonopolyProject - Guy\MonopolyProject\MonopolyProject\obj\Debug\MonopolyProject.Form1.resources
+C:\Users\guysh\OneDrive\שולחן העבודה\Cyber\FinishedProjects\MonopolyProject - Guy\MonopolyProject\MonopolyProject\obj\Debug\MonopolyProject.Properties.Resources.resources
+C:\Users\guysh\OneDrive\שולחן העבודה\Cyber\FinishedProjects\MonopolyProject - Guy\MonopolyProject\MonopolyProject\obj\Debug\MonopolyProject.csproj.GenerateResource.cache
+C:\Users\guysh\OneDrive\שולחן העבודה\Cyber\FinishedProjects\MonopolyProject - Guy\MonopolyProject\MonopolyProject\obj\Debug\MonopolyProject.csproj.CoreCompileInputs.cache
+C:\Users\guysh\OneDrive\שולחן העבודה\Cyber\FinishedProjects\MonopolyProject - Guy\MonopolyProject\MonopolyProject\obj\Debug\MonopolyProject.exe
+C:\Users\guysh\OneDrive\שולחן העבודה\Cyber\FinishedProjects\MonopolyProject - Guy\MonopolyProject\MonopolyProject\obj\Debug\MonopolyProject.pdb
